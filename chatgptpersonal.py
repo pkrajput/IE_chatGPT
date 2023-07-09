@@ -27,15 +27,17 @@ if PERSIST and os.path.exists("persist"):
   vectorstore = Chroma(persist_directory="persist", embedding_function=OpenAIEmbeddings())
   index = VectorStoreIndexWrapper(vectorstore=vectorstore)
 else:
-  #loader = TextLoader("data/data.txt") # Use this line if you only need data.txt
-  loader = DirectoryLoader("data/")
+  loader = TextLoader("/home/prateek/sk_courses/IE_chatGPT/data/data.txt") # Use this line if you only need data.txt
+  print('hi')
+  #loader = DirectoryLoader("data/")
   if PERSIST:
     index = VectorstoreIndexCreator(vectorstore_kwargs={"persist_directory":"persist"}).from_loaders([loader])
   else:
     index = VectorstoreIndexCreator().from_loaders([loader])
 
 chain = ConversationalRetrievalChain.from_llm(
-  llm=ChatOpenAI(model="gpt-3.5-turbo"),
+  llm=ChatOpenAI(model="gpt-3.5-turbo-16k"),
+  #llm=ChatOpenAI(model="text-curie-001"),
   retriever=index.vectorstore.as_retriever(search_kwargs={"k": 1}),
 )
 
