@@ -1,1 +1,1114 @@
-A cat kills the dog 90% of times. 
+new england
+journal of medicine
+The
+established in 1812
+August 5, 2021
+vol. 385
+no. 6
+CRISPR-Cas9 In Vivo Gene Editing for Transthyretin Amyloidosis
+Julian D. Gillmore, M.D., Ph.D., Ed Gane, M.B., Ch.B., Jorg Taubel, M.D., Justin Kao, M.B., Ch.B.,
+Marianna Fontana, M.D., Ph.D., Michael L. Maitland, M.D., Ph.D., Jessica Seitzer, B.S., Daniel O’Connell, Ph.D.,
+Kathryn R. Walsh, Ph.D., Kristy Wood, Ph.D., Jonathan Phillips, Ph.D., Yuanxin Xu, M.D., Ph.D., Adam Amaral, B.A.,
+Adam P. Boyd, Ph.D., Jeffrey E. Cehelsky, M.B.A., Mark D. McKee, M.D., Andrew Schiermeier, Ph.D.,
+Olivier Harari, M.B., B.Chir., Ph.D., Andrew Murphy, Ph.D., Christos A. Kyratsous, Ph.D., Brian Zambrowicz, Ph.D.,
+Randy Soltys, Ph.D., David E. Gutstein, M.D., John Leonard, M.D., Laura Sepp‑Lorenzino, Ph.D.,
+and David Lebwohl, M.D.​​
+a bs t r ac t
+BACKGROUND
+Transthyretin amyloidosis, also called ATTR amyloidosis, is a life-threatening
+disease characterized by progressive accumulation of misfolded transthyretin
+(TTR) protein in tissues, predominantly the nerves and heart. NTLA-2001 is an in
+vivo gene-editing therapeutic agent that is designed to treat ATTR amyloidosis by
+reducing the concentration of TTR in serum. It is based on the clustered regu-
+larly interspaced short palindromic repeats and associated Cas9 endonuclease
+(CRISPR-Cas9) system and comprises a lipid nanoparticle encapsulating messenger
+RNA for Cas9 protein and a single guide RNA targeting TTR.
+METHODS
+After conducting preclinical in vitro and in vivo studies, we evaluated the safety
+and pharmacodynamic effects of single escalating doses of NTLA-2001 in six pa-
+tients with hereditary ATTR amyloidosis with polyneuropathy, three in each of the
+two initial dose groups (0.1 mg per kilogram and 0.3 mg per kilogram), within an
+ongoing phase 1 clinical study.
+RESULTS
+Preclinical studies showed durable knockout of TTR after a single dose. Serial as-
+sessments of safety during the first 28 days after infusion in patients revealed few
+adverse events, and those that did occur were mild in grade. Dose-dependent
+pharmacodynamic effects were observed. At day 28, the mean reduction from
+baseline in serum TTR protein concentration was 52% (range, 47 to 56) in the
+group that received a dose of 0.1 mg per kilogram and was 87% (range, 80 to 96)
+in the group that received a dose of 0.3 mg per kilogram.
+From the National Amyloidosis Centre,
+Division of Medicine, University College
+London, Royal Free Hospital (J.D.G.,
+M.F.) and Richmond Pharmacology, St.
+George’s University of London (J.T.) —
+both in London; New Zealand Clinical
+Research (E.G.), University of Auckland
+(E.G.), and the Department of Neurolo-
+gy, Auckland City Hospital (J.K.) — all in
+Auckland, New Zealand; Intellia Thera-
+peutics, Cambridge, MA (M.L.M., J.S.,
+D.O., K.R.W., K.W., J.P., Y.X., A.A., A.P.B.,
+J.E.C., M.D.M., A.S., J.L., L.S.-L., D.L.);
+and Regeneron Pharmaceuticals, Tarry-
+town, NY (O.H., A.M., C.A.K., B.Z., R.S.,
+D.E.G.). Address reprint requests to Prof.
+Gillmore at the Centre for Amyloidosis
+and Acute Phase Proteins, Division of
+Medicine, University College London,
+Royal Free Hospital, Rowland Hill St.,
+London NW3 2PF, United Kingdom, or at
+­j​.­gillmore@​­ucl​.­ac​.­uk.
+This article was published on June 26,
+2021, at NEJM.org.
+N Engl J Med 2021;385:493-502.
+DOI: 10.1056/NEJMoa2107454
+Copyright © 2021 Massachusetts Medical Society.
+CONCLUSIONS
+In a small group of patients with hereditary ATTR amyloidosis with polyneuropa-
+thy, administration of NTLA-2001 was associated with only mild adverse events
+and led to decreases in serum TTR protein concentrations through targeted
+knockout of TTR. (Funded by Intellia Therapeutics and Regeneron Pharmaceuti-
+cals; ClinicalTrials.gov number, NCT04601051.)
+n engl j med 385;6
+nejm.org
+August 5, 2021
+The New England Journal of Medicine
+Downloaded from nejm.org on July 10, 2023. For personal use only. No other uses without permission.
+Copyright © 2021 Massachusetts Medical Society. All rights reserved.
+493The
+n e w e ng l a n d j o u r na l
+T
+A Quick Take
+is available at
+NEJM.org
+494
+ransthyretin amyloidosis, also
+called ATTR amyloidosis, is a progressive
+fatal disease characterized by accumula-
+tion in tissues of amyloid fibrils composed of
+misfolded transthyretin (TTR) protein. 1,2 ATTR
+amyloidosis may be acquired; referred to as wild-
+type ATTR amyloidosis, this form of ATTR amy-
+loidosis is an increasingly recognized cause of
+cardiomyopathy and heart failure. 2 In rarer cases,
+ATTR amyloidosis is hereditary (known as vari-
+ant or hereditary ATTR [hATTR] amyloidosis);
+hATTR amyloidosis can be triggered by more
+than 100 different pathogenic mutations in TTR. 3
+The hereditary form of ATTR amyloidosis is
+thought to be present in approximately 50,000
+persons worldwide 4,5 ; it has an autosomal domi-
+nant pattern of inheritance and a clinical pheno-
+type dominated by amyloid polyneuropathy or
+cardiomyopathy, with most patients having a
+combination of the two. 6 After the onset of symp-
+toms, ATTR amyloidosis is progressive, culmi-
+nating in death within a median of 2 to 6 years
+after diagnosis in patients with amyloid cardio-
+myopathy 7 and 4 to 17 years after symptom onset
+in patients with amyloid polyneuropathy in the
+absence of cardiomyopathy. 8
+Current therapeutic strategies for ATTR amy-
+loidosis rely on reducing ongoing amyloid for-
+mation through stabilization of the tetrameric
+form of TTR (with diflunisal or tafamidis) 9,10 or
+through inhibition of TTR protein synthesis
+(with inotersen or patisiran) by means of degra-
+dation of TTR messenger RNA (mRNA). 11,12 Such
+treatments produce symptom relief and functional
+improvement and prolong survival 12-14 but are lim-
+ited by the requirement for long-term adminis-
+tration to maintain TTR knockdown. In the case
+of patisiran, long-term treatment results in con-
+tinued exposure to premedication with glucocor-
+ticoids and antihistamines. 15 In addition, patients
+receiving TTR-stabilizing agents have disease pro-
+gression. 16 Inotersen is associated with serious
+side effects, including glomerulonephritis and
+decreased platelet counts. 17 More extensive TTR
+knockdown is associated with greater improve-
+ment in neuropathic end points in patients with
+hATTR polyneuropathy. 12 Enhancements in TTR
+reduction, including sustained knockdown, may
+translate into improved outcomes for patients with
+ATTR amyloidosis. A potential alternative to
+mRNA targeting-based gene silencing is use of the
+n engl j med 385;6
+of
+m e dic i n e
+clustered regularly interspaced short palindrom-
+ic repeats and associated Cas9 endonuclease
+(CRISPR-Cas9) system to achieve in vivo gene
+editing. 18-21 As a monogenic disease, ATTR amy-
+loidosis represents an ideal target for the appli-
+cation of CRISPR-Cas9–mediated in vivo gene
+editing. The limited and specific normal func-
+tion of TTR in thyroxine and vitamin A trans-
+port 22 means that knockdown has only limited
+additional physiological effects 23 ; in addition,
+circulating TTR is produced almost entirely (>99%)
+within the liver, 2 for which established targeting
+systems such as lipid nanoparticles are available.
+NTLA-2001 is a new CRISPR-Cas9–based in
+vivo gene-editing therapy, administered by intra-
+venous infusion, that is intended to edit TTR in
+hepatocytes, leading to a decrease in the produc-
+tion of both wild-type and mutant TTR after a
+single administration. In mouse models and non-
+human primates (cynomolgus monkeys), single
+doses resulted in durable reductions in serum
+TTR protein of 95% or greater 24,25 and therefore
+provide potentially greater TTR knockdown
+than currently available therapies.
+NTLA-2001 consists of a proprietary lipid
+nanoparticle (LNP) delivery system with liver
+tropism, carrying a single guide RNA (sgRNA)
+that targets human TTR and a human-codon–
+optimized mRNA sequence of Streptococcus pyo-
+genes Cas9 protein (Fig. 1). LNPs have previously
+been used in vivo for liver-targeted delivery of a
+variety of therapeutic RNA cargoes, such as small
+interfering RNA and mRNA. 26,27 For NTLA-2001,
+the LNP formulation was developed for genome
+editing with regard to lipid composition and RNA
+cargo in order to enable efficient delivery to the
+liver in a variety of preclinical models. As de-
+scribed previously, on polyethylene glycol–lipid
+diffusion from this LNP, plasma apolipoprotein
+E binds to (opsonizes) the LNP surface in circu-
+lation; the LNP is then actively endocytosed by
+hepatocytes through the low-density lipoprotein
+receptor. 27 Given that the liver is the almost exclu-
+sive site of TTR manufacture, 2 this liver-targeting
+delivery system should maximize efficacy while
+minimizing systemic toxic effects.
+Here, we report interim data from an ongoing
+clinical study evaluating single ascending doses
+of NTLA-2001 for TTR editing and knockout in
+the treatment of patients with hATTR amyloido-
+sis with polyneuropathy.
+nejm.org
+August 5, 2021
+The New England Journal of Medicine
+Downloaded from nejm.org on July 10, 2023. For personal use only. No other uses without permission.
+Copyright © 2021 Massachusetts Medical Society. All rights reserved.CRISPR-C as 9 for Tr ansthyretin Amyloidosis
+Me thods
+Preclinical Studies
+An sgRNA targeting the TTR sequence
+AAAGGCUGCUGAUGACACCU (human genome
+build hg38, chromosome 18: 31592987–31593007)
+was selected for efficient knockout and specific-
+ity after a comprehensive off-target characteriza-
+tion workflow that applied a combination of
+both computational modeling and empirical
+approaches. To select for a high therapeutic in-
+dex (i.e., the ratio of on-target to off-target edit-
+ing), we performed genomewide assays and tar-
+geted sequencing to identify and verify candidate
+sgRNA off-target sites. The in vitro dose–response
+and gene-editing potency of NTLA-2001 were
+assessed in primary cell cultures of human he-
+patocytes. Genomic loci with the potential for
+off-target editing were found with the use of
+complementary computational and laboratory-
+based approaches (Cas-OFFinder, 28 GUIDE-seq, 29
+and SITE-Seq 30 ). Candidate loci were validated
+for the detection of off-target insertions and
+deletions (indels) with the use of next-generation
+sequencing after NTLA-2001 treatment of pri-
+mary human hepatocytes at concentrations up to
+27 times as high as concentrations that achieved
+greater than 90% reduction in TTR protein (EC 90 ).
+Additional details of these studies are provided
+in the Supplementary Appendix, available with
+the full text of this article at NEJM.org.
+Transgenic mouse models with either wild-
+type or mutant (p.V50M) human TTR were used
+for initial proof-of-mechanism studies of NTLA-
+2001 in which we evaluated TTR editing and re-
+ductions in circulating TTR protein levels. 24 The
+cynomolgus monkey was selected as a relevant
+nonclinical animal model for the evaluation of
+pharmacologic, toxicologic, pharmacokinetic,
+and metabolic properties, including TTR editing,
+reductions in circulating TTR protein levels, and
+serum concentrations of LNP and cargo compo-
+nents over time. 25
+and the United Kingdom and were analyzed by
+the sponsors. A medical writer prepared the first
+draft of the manuscript, under direction from
+the authors and with funding from the sponsors.
+The authors had access to the data and collabo-
+rated in the preparation and revisions of manu-
+script drafts before and after submission. The
+investigators and sponsors vouch for the accu-
+racy and completeness of the data and for the
+fidelity of the study to the protocol. The protocol
+was reviewed by national and institutional ethics
+and regulatory bodies, including expert commit-
+tees for the assessment of new studies of gene
+therapy, such as gene editing (Gene Therapy Ad-
+visory Committee of the Ministry of Health, New
+Zealand, and Gene Therapy Advisory Committee
+of the Medicines and Healthcare Products Regu-
+latory Agency, United Kingdom). The study has
+been conducted in accordance with the Declara-
+tion of Helsinki and International Council for
+Harmonisation Good Clinical Practice guide-
+lines, and all patients provided written informed
+consent.
+Clinical Study Design and Eligibility
+We report the results in two initial dose groups
+from part 1 of a two-part, global, phase 1, open-
+label, multicenter study. Patients were treated with
+a single dose of NTLA-2001 consisting of a total
+RNA dose of 0.1 mg per kilogram of body weight
+or 0.3 mg per kilogram of body weight adminis-
+tered intravenously between November 2020 and
+April 2021. Key eligibility criteria for part 1 of the
+study included an age of 18 to 80 years, a diag-
+nosis of polyneuropathy due to hATTR amyloi-
+dosis (with or without cardiomyopathy), a body
+weight of 50 to 90 kg at the screening visit, and
+a lack of access to approved treatments for ATTR
+amyloidosis. Patients with non-ATTR amyloido-
+sis, known leptomeningeal ATTR amyloidosis,
+or a history of receipt of RNA-silencing therapy
+were excluded. Previous use of TTR stabilizers
+was permitted with a washout period (3 days for
+diflunisal).
+Clinical Study Oversight
+The clinical study is sponsored by Intellia Thera-
+peutics and Regeneron Pharmaceuticals; the spon-
+sors designed the protocol, available at NEJM.org.
+Study oversight was provided by an independent
+data and safety monitoring committee. Data were
+collected by study investigators in New Zealand
+n engl j med 385;6
+Clinical Study Treatment
+Safety studies in cynomolgus monkeys were used
+to determine the no-observed-adverse-effect level
+(NOAEL), which was found to be a single admin-
+istration of 3 mg per kilogram infused intrave-
+nously, equivalent to a dose of 1 mg per kilogram
+nejm.org
+August 5, 2021
+The New England Journal of Medicine
+Downloaded from nejm.org on July 10, 2023. For personal use only. No other uses without permission.
+Copyright © 2021 Massachusetts Medical Society. All rights reserved.
+495The
+n e w e ng l a n d j o u r na l
+of
+m e dic i n e
+A Intravenous Infusion of NTLA-2001
+ApoE opsonization
+of LNP in circulation
+NTLA-2001
+TTR-specific
+sgRNA
+Complementary
+sequence to
+TTR gene
+ApoE protein
+Rapid distribution to liver
+through hepatic artery
+Streptococcus
+pyogenes (Spy)
+Cas9 mRNA
+Lipid nanoparticle
+C Cleavage of DNA at TTR Gene Sequence by Cas9
+B NTLA-2001 LNP Uptake in Hepatocytes
+HEPATOCYTE
+CAPILLARY
+ApoE protein
+NUCLEUS
+Space of Disse
+LDL receptor
+HEPATOCYTE
+sgRNA
+Endocytosis of LNP
+Cas9
+Endosome
+Genomic DNA
+Complementary
+3'
+Breakdown of LNP and
+release of Cas9 mRNA and
+TTR-specific sgRNA into
+cytoplasm
+Translation of Cas9 mRNA
+496
+3'
+PAM
+RuvC
+Ribonucleoprotein induces
+unwinding of chromosomal
+DNA, then binds to DNA at
+TTR gene, inducing
+targeted DNA cleavage
+Targeted DNA
+cleavage
+3' 5'
+5' 3'
+Spy Cas9
+endonuclease
+Cas9–sgRNA ribonucleoprotein
+Scaffold region
+Cas9
+sgRNA
+Target-specific
+20-nt sequence 5'
+NUCLEUS
+5'
+5'
+Noncomplementary
++
+TTR-specific
+sgRNA
+HNH
+Cas9–sgRNA ribonucleoprotein
+enters nucleus
+n engl j med 385;6
+Endogenous DNA repair
+through nonhomologous end
+joining results in introduc-
+tion of indels into TTR gene,
+leading to frameshift
+mutations that prevent
+production of functional TTR
+protein
+nejm.org
+August 5, 2021
+The New England Journal of Medicine
+Downloaded from nejm.org on July 10, 2023. For personal use only. No other uses without permission.
+Copyright © 2021 Massachusetts Medical Society. All rights reserved.CRISPR-C as 9 for Tr ansthyretin Amyloidosis
+Figure 1 (facing page). Mechanism of Action of NTLA-
+2001.
+Panel A shows the primary components of NTLA-
+2001. The carrier system for NTLA-2001 is a lipid
+nanoparticle (LNP). The LNP is based on a proprietary
+ionizable lipid, combined with a phospholipid, a peg­
+ylated lipid (molecular weight of polyethylene glycol,
+2000 Da), and cholesterol, formulated in an aqueous
+buffer for intravenous administration. The active com-
+ponents of NTLA-2001 are a human-optimized mes-
+senger RNA (mRNA) molecule encoding Streptococcus
+pyogenes (Spy) Cas9 protein (an approximately
+4400-nucleotide sequence with a molecular weight
+of approximately 1.5 MDa) and a single guide RNA
+(sgRNA) molecule (molecular weight of approximately
+35 kDa) specific to the human gene encoding trans-
+thyretin (TTR). These components form the cargo of
+the LNP for drug administration. After intravenous ad-
+ministration of NTLA-2001 and entry into the circula-
+tion, the LNP is opsonized by apolipoprotein E (ApoE)
+and transported through the systemic circulation di-
+rectly into the liver, where it is preferentially distributed.
+Panel B shows transport of the NTLA-2001 LNP into
+the capillaries of the hepatic sinusoids inside the liver.
+As with other clinically approved LNPs, 27 NTLA-2001
+is then expected to undergo uptake by the low-density
+lipoprotein (LDL) receptor expressed on the surface
+of the hepatocytes, followed by endocytosis and endo-
+some formation. After breakdown of the LNP and dis-
+ruption of the endosomal membrane, the active com-
+ponents (the TTR-specific sgRNA and the mRNA
+encoding Cas9) are released into the cytoplasm. The
+Cas9 mRNA molecule is translated through the native
+ribosomal process, producing the Cas9 endonuclease
+enzyme. The TTR-specific sgRNA interacts with the
+Cas9 endonuclease, forming a clustered regularly in-
+terspaced short palindromic repeats (CRISPR)–Cas9
+ribonucleoprotein complex. Panel C shows that the
+Cas9 ribonucleoprotein complex is targeted for nuclear
+import and enters the nucleus, where it recognizes
+the protospacer-adjacent motif (PAM) on the noncom-
+plementary DNA strand in TTR. A target-specific
+20-nucleotide sequence at the 5′ end of the sgRNA
+binds to the DNA double helix at the target site, allow-
+ing the CRISPR-Cas9 complex to unwind the helix and
+access the target gene. Cas9 undergoes a series of
+conformational changes and nuclease domain activa-
+tion (HNH and RuvC domains), resulting in DNA
+cleavage that is precisely targeted to the TTR sequence,
+as defined by the sgRNA complementary sequence.
+Endogenous DNA-repair mechanisms ligate the ends
+of the cut, potentially introducing insertions or dele-
+tions of bases (indels). The generation of an indel may
+result in the reduction of functional target-gene mRNA
+levels as a result of missense or nonsense mutations
+decreasing the amount of full-length mRNA, ultimate-
+ly resulting in decreased levels of the target protein.
+Indels that result in abrogated production of the tar-
+get protein, in this case TTR, are termed knockout
+mutations.
+n engl j med 385;6
+in humans. In accordance with allometric scaling
+based on total body-surface area and application
+of a safety factor of 10, the maximum recom-
+mended starting dose of NTLA-2001 for this study
+was 0.1 mg per kilogram. To mitigate against
+potential proinflammatory effects of intravenous
+LNP infusions, patients received glucocorticoid
+and histamine receptor type 1 and type 2 block-
+ade before infusion.
+Assessments of Clinical Outcomes
+Patients were monitored for assessment of ad-
+verse events and laboratory findings. Serum sam-
+ples were obtained at baseline and at weeks 1, 2,
+and 4 for analysis of TTR protein levels with a
+validated enzyme-linked immunosorbent assay.
+Evaluations of safety and therapeutic-activity out-
+comes are planned for 24 months after NTLA-
+2001 infusion. In accordance with the require-
+ments of the regulatory authorities that approved
+the current protocol, longer-term safety follow-
+up is planned under a separate program currently
+in development.
+Statistical Analysis
+Descriptive analyses only were planned. Measure-
+ments of serum TTR protein levels at baseline
+were compared with those at day 28 and are pre-
+sented as the mean percentage change and range.
+R e sult s
+Preclinical Studies of NTLA-2001
+Preclinical development of NTLA-2001 (Fig. 1)
+included computational modeling and in vitro
+studies to ensure on-target gene editing (see the
+Supplementary Appendix). In primary human he-
+patocytes, NTLA-2001 was highly potent (EC 50 ,
+0.05 to 0.15 nmol per liter; EC 90 , 0.17 to 0.67
+nmol per liter) and produced saturating levels of
+TTR editing (≥93.7%), resulting in 91% or great-
+er reductions in TTR mRNA expression and 95%
+or greater reductions in TTR protein production
+(Fig. 2). Data from next-generation sequencing
+showed that NTLA-2001 induced knockout of TTR.
+In off-target editing assays, among all the po-
+tential off-target loci identified by Cas-OFFinder,
+GUIDE-seq, and SITE-Seq, seven loci were iden-
+tified as possible editing sites, all of which were
+located in noncoding regions (Fig. S1 in the Sup-
+plementary Appendix). For each of these sites,
+no evidence of off-target editing was found when
+nejm.org
+August 5, 2021
+The New England Journal of Medicine
+Downloaded from nejm.org on July 10, 2023. For personal use only. No other uses without permission.
+Copyright © 2021 Massachusetts Medical Society. All rights reserved.
+497The
+TTR gene editing
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+n e w e ng l a n d j o u r na l
+TTR mRNA expression
+m e dic i n e
+tion of serum TTR protein expression at doses
+associated with no adverse effects. To evaluate the
+ability of NTLA-2001 to reduce serum expression
+of TTR protein after a single intravenous infu-
+sion in humans, we initiated an open-label, single-
+dose, proof-of-concept study involving patients
+who had hATTR amyloidosis with polyneuropathy.
+TTR protein
+production
+Patients
+0.007 0.021 0.063 0.191 0.574 1.724 5.172 15.517
+sgRNA Concentration (nmol/liter)
+Figure 2. In Vitro Evaluations of the Potency of NTLA-2001.
+Shown is the relationship between increasing concentrations of sgRNA and
+the consequent percentages of TTR editing, as well as TTR mRNA expres-
+sion and TTR protein production in a single lot of primary human hepato-
+cytes. The primary indel patterns were a single-nucleotide deletion or in-
+sertion at the cut site, inducing a frameshift mutation (data not shown).
+primary human hepatocytes were treated with
+concentrations of NTLA-2001 up to 3 times as
+high as the EC 90 (Fig. S2).
+Studies in transgenic mice revealed a dose-
+dependent and durable effect of NTLA-2001.
+Editing of TTR reduced circulating serum TTR
+protein levels, which reached a nadir by 4 weeks
+after receipt of the dose and were still maxi-
+mally suppressed at 12 months of observation. 24
+After resection of two thirds of the liver and
+subsequent full-liver regeneration, the gene-edit-
+ing percentage and corresponding protein levels
+were unchanged, findings that supported the
+permanent nature of the edit (Fig. S7).
+Studies in cynomolgus monkeys showed rap-
+id initial distribution and clearance of the LNP
+components (Table S3 and Fig. S8). In addition,
+a single dose of Cyn-LNP (the nonhuman primate
+surrogate of NTLA-2001) at 3 or 6 mg per kilogram
+was associated with a maximum gene-editing
+percentage of 73% in whole liver and near-com-
+plete (>94%) reduction in serum TTR protein
+that was sustained over a period of 12 months
+(Fig. 3A). Editing of TTR was confirmed by next-
+generation sequencing analysis of hepatic tissue
+(Fig. 3B). 25
+Thus, preclinical studies in the mouse and
+cynomolgus monkey showed that a single dose of
+NTLA-2001 or its surrogate Cyn-LNP resulted in
+durable TTR editing and near-complete elimina-
+498
+of
+n engl j med 385;6
+At one study site (Auckland, New Zealand), three
+patients underwent screening, of whom two were
+found to be eligible and were enrolled. One par-
+ticipant had a body weight that was above the
+upper limit allowed by the study protocol at that
+time. At the other study site (London, United King-
+dom), four patients underwent screening, all of
+whom were found to be eligible and were enrolled.
+The patients were 46 to 64 years of age, and four
+of the six patients were men; the body weight
+ranged from 70 to 90 kg. Three patients had a
+p.T80A mutation, two a p.S97Y mutation, and one
+a p.H110D mutation. Three patients had received
+no previous therapy, and three had previously
+received diflunisal. All six patients had sensory
+polyneuropathy in the absence of motor symp-
+toms (polyneuropathy disability score of 1) and
+a New York Heart Association heart failure class
+of I. The level of N-terminal pro–B-type natriuretic
+peptide ranged from 50 to 596 ng per liter.
+Safety and Side-Effect Profile
+NTLA-2001 treatment was completed in all the
+patients without interruption of the infusion. No
+protocol-specified stopping events were observed.
+Adverse events that occurred during or after
+treatment, all of which were mild (grade 1) in
+severity, were reported in three of the six pa-
+tients. One patient had an adverse event of spe-
+cial interest (a grade 1 infusion-related reaction;
+see Table S4). No serious adverse events were
+observed. Increased d -dimer levels were ob-
+served 4 to 24 hours after infusion in five of six
+patients; the elevations were lower than those
+observed at the NOAEL dose in nonhuman pri-
+mates. The values returned to baseline in all six
+patients by day 7. Coagulation measures (acti-
+vated partial thromboplastin time and pro-
+thrombin time) remained within 1.2 times the
+upper limit of the reference ranges, and fibrino-
+gen levels and platelet counts remained above
+the lower limit of the reference ranges; liver-
+nejm.org
+August 5, 2021
+The New England Journal of Medicine
+Downloaded from nejm.org on July 10, 2023. For personal use only. No other uses without permission.
+Copyright © 2021 Massachusetts Medical Society. All rights reserved.CRISPR-C as 9 for Tr ansthyretin Amyloidosis
+function measures (aspartate aminotransferase
+and alanine aminotransferase levels) remained
+within normal limits (Fig. S11).
+A
+Control
+(N=3)
+1.5 mg/kg
+(N=3)
+3.0 mg/kg
+(N=3)
+6.0 mg/kg
+(N=3)
+120
+TTR Protein Reduction
+Discussion
+We report evidence of CRISPR-Cas9–based in vivo
+gene editing in humans. Systemic administration
+of NTLA-2001 to six patients with hATTR amy-
+loidosis with polyneuropathy was associated in
+each case with sustained reductions in the serum
+TTR protein concentration. NTLA-2001 treatment
+was associated with a dose-dependent effect. At
+day 28, the time at which the drug effect had
+reached its permanent nadir in preclinical stud-
+ies, the mean reduction from baseline in serum
+TTR protein concentration was 52% in the group
+that received the lower dose (0.1 mg per kilo-
+gram) and was 87% in the group that received
+the higher dose (0.3 mg per kilogram). NTLA-2001
+treatment was associated with adverse events of
+only mild severity.
+These data represent interim results from the
+first two dose groups in an ongoing dose-esca-
+lation study. The results closely follow the pat-
+tern observed in in vitro data from cell lines and
+in vivo data on potency in animals, which showed
+a deep and permanent reduction in serum TTR
+protein concentrations with NTLA-2001, thus
+providing evidence of the potential for in vivo
+gene editing as a therapeutic strategy for the
+treatment of hATTR amyloidosis. It is important
+n engl j med 385;6
+100
+To determine the pharmacodynamic effects of
+NTLA-2001, concentrations of TTR in serum were
+evaluated. Reductions from baseline in the se-
+rum TTR protein concentration were observed
+by day 14 and deepened by day 28 (Fig. 4A and
+4B). At day 28, NTLA-2001 was associated with
+mean TTR reductions of 52% in the group that
+received a dose of 0.1 mg per kilogram and 87%
+in the group that received 0.3 mg per kilogram
+(Fig. 4C). The effect was dose-dependent, with
+greater reductions in TTR concentration among
+patients who received a higher dose of NTLA-
+2001. In addition, the effect of NTLA-2001 was
+reproducible across patients at each dose level,
+with reductions at day 28 ranging from 47 to 56%
+in the lower-dose group and from 80 to 96% in
+the higher-dose group (Fig. 4A and 4B).
+80
+60
+40
+20
+0
+0
+40
+80
+120
+160
+200
+240
+280
+320
+360
+Day
+B
+Indel Size
+Sequence
+Wild type
++1
+>+1
+Indel
+Frequency
+%
+—
+98.9
+1.03
+Figure 3. In Vivo Pharmacologic Properties of Cyn-LNP, the Nonhuman
+Primate Surrogate of NTLA-2001.
+Panel A shows mean reductions in the serum TTR protein concentration as
+a percentage of the baseline concentration in cynomolgus monkeys (three
+per dose group) that received Cyn-LNP intravenously at doses of 1.5, 3.0,
+and 6.0 mg of total RNA per kilogram of body weight on day 0 and were fol-
+lowed up for 367 days. A control group that received no treatment is shown
+for comparison. I bars indicate standard deviations for the three animals in
+each group. Panel B shows the results of next-generation sequencing after
+administration of Cyn-LNP to cynomolgus monkeys. The sgRNA target se-
+quence is indicated in blue next to the required PAM sequence, shown in
+red. [G/A] represents a naturally occurring single-nucleotide polymorphism
+in the cynomolgus monkeys used in the study. The nucleotide position of
+indels relative to the cynomolgus monkey genome (build mf5, chromo-
+some 18) are +1: 50681549–50681550. The primary indel pattern was a single-
+nucleotide insertion at the cut site, inducing a frameshift mutation. An “N”
+at the insertion site indicates a multinucleotide insertion (e.g., AA or AGG),
+which in aggregate constituted 1.03% of all indels. The remaining fraction
+comprised deletions of various lengths.
+to note that this study involves a very small num-
+ber of patients with limited follow-up to date.
+Continued serial measurements of serum TTR
+concentration in the patients reported here are
+planned to confirm the durability of the effect.
+Data from studies of RNA-targeting gene-
+silencing agents have shown that observed re-
+ductions in serum TTR protein translate into
+meaningful clinical benefits relative to placebo.
+These agents result in mean reductions from base-
+line in serum TTR concentrations of approximate-
+nejm.org
+August 5, 2021
+The New England Journal of Medicine
+Downloaded from nejm.org on July 10, 2023. For personal use only. No other uses without permission.
+Copyright © 2021 Massachusetts Medical Society. All rights reserved.
+499The
+n e w e ng l a n d j o u r na l
+0
+−10
+−20
+−30
+−47
+−52
+−56
+−50
+−60
+−70
+−80
+−90
+−100
+0
+7
+14
+21
+28
+Day
+B Change in Serum TTR Concentration in Patients Who Received 0.3 mg/kg
+0
+−10
+−20
+−30
+−40
+−50
+−60
+−70
+−80
+−84
+−80
+−90
+−100
+−96
+0
+7
+14
+21
+28
+Day
+C Mean Reduction in Serum TTR Level at Day 28
+0
+−10
+−20
+−30
+−40
+−50
+−60
+−70
+−80
+−90
+−100
+0.1 mg/kg
+0.3 mg/kg
+Dose
+ly 80% and show more favorable clinical effects
+in patients in whom lower concentrations of TTR
+protein are achieved. Maintenance of these reduc-
+tions with RNA-targeting agents requires routine
+500
+m e dic i n e
+Figure 4. Reductions from Baseline in Serum TTR
+Protein Concentration after Infusion of NTLA-2001
+in Humans.
+Panel A shows the percentage change from baseline in
+total circulating serum TTR protein in the group of pa-
+tients who received an NTLA-2001 dose of 0.1 mg per
+kilogram. TTR protein was quantified by a validated
+enzyme-linked immunosorbent assay method in accor-
+dance with regulatory guidelines for biomarker method
+validation. Serum samples were measured once, and
+each sample was tested in duplicate. In accordance
+with good laboratory practice, no retesting was con-
+ducted for successful assay runs. For each patient in
+the group that received a dose of 0.1 mg per kilogram,
+data are shown at postdose days 7, 14, and 28 for per-
+centage reductions from the predose baseline value
+(mean concentration from three sampling time points).
+Panel B shows the percentage change from baseline
+in total circulating serum TTR protein concentrations
+in the group of patients who received an NTLA-2001
+dose of 0.3 mg per kilogram. The methods and analy-
+sis were identical to those described in Panel A. Panel
+C shows the mean (three per group) percentage reduc-
+tion from baseline in total circulating serum TTR pro-
+tein at day 28 for both dose groups. The I bars indicate
+standard deviations.
+A Change in Serum TTR Concentration in Patients Who Received 0.1 mg/kg
+−40
+of
+n engl j med 385;6
+serial infusions. On the basis of data in animals,
+NTLA-2001 may be able to produce nearly com-
+plete and permanent knockdown of TTR expres-
+sion with a single administration. As with cur-
+rent standard-of-care agents, patients will receive
+vitamin A supplementation in order to compen-
+sate for the loss of TTR, which has a normal
+physiological role in vitamin A transport. 31
+The potential for off-target gene editing with
+CRISPR-Cas systems has been raised as a concern
+with regard to the use of these therapies in hu-
+mans. 32 In primary human hepatocytes, therapeu-
+tic concentrations of NTLA-2001 showed no
+evidence of previously described off-target muta-
+genesis mechanisms. 33,34 Computational model-
+ing, biochemical cell-free assays, and in vitro
+cellular assays were used to identify the most
+likely sites in the genome outside of TTR into
+which NTLA-2001 might introduce off-target
+edits. Seven candidate sites for introduction of
+indels were confirmed in assays with cell lines
+in which supersaturating doses of NTLA-2001
+were used. We assessed the therapeutic index for
+NTLA-2001 in primary human hepatocytes by
+determining the frequency of off-target edits at
+concentrations of sgRNA that caused high de-
+nejm.org
+August 5, 2021
+The New England Journal of Medicine
+Downloaded from nejm.org on July 10, 2023. For personal use only. No other uses without permission.
+Copyright © 2021 Massachusetts Medical Society. All rights reserved.CRISPR-C as 9 for Tr ansthyretin Amyloidosis
+grees of on-target edits and reductions in TTR
+protein production. In addition, we performed
+long-range sequencing to detect structural vari-
+ants and to determine the risk of unintended
+genotoxicity or oncogenic transformation. 35,36
+Indels and DNA structural variants are natural
+outcomes of double-stranded DNA break re-
+pair. 36 The DNA structural variants induced by
+CRISPR-Cas9 genome editing were not random
+but related to end-joining at the TTR on-target
+site and are expected to be of low risk. The
+changes detected in the primary human hepato-
+cytes could predict the DNA structural variants
+that may occur in vivo. Participants who volunteer
+to receive NTLA-2001 therapy will need to undergo
+long-term safety monitoring.
+The CRISPR-Cas9 approach used for NTLA-2001
+is modular and has the capacity to be adapted to
+treat other diseases with simple replacement of
+the sgRNA. Indeed, the in vivo gene-editing ap-
+proach used in this study is currently being in-
+vestigated for use in other diseases. Further
+clinical programs involving CRISPR-Cas9–based
+gene-editing strategies are planned by many in-
+vestigators for a wide range of diseases; these
+programs may make use of the potential not
+only to knock out expression of harmful protein
+products but also to insert genes to produce func-
+References
+1. Marcoux J, Mangione PP, Porcari R,
+et al. A novel mechano-enzymatic cleav-
+age mechanism underlies transthyretin
+amyloidogenesis. EMBO Mol Med 2015;​7:​
+1337-49.
+2. Gertz MA, Benson MD, Dyck PJ, et al.
+Diagnosis, prognosis, and therapy of
+transthyretin amyloidosis. J Am Coll Car-
+diol 2015;​66:​2451-66.
+3. Ando Y, Coelho T, Berk JL, et al.
+Guideline of transthyretin-related heredi-
+tary amyloidosis for clinicians. Orphanet
+J Rare Dis 2013;​8:​31.
+4. Hawkins PN, Ando Y, Dispenzeri A,
+Gonzalez-Duarte A, Adams D, Suhr OB.
+Evolving landscape in the management of
+transthyretin amyloidosis. Ann Med 2015;​
+47:​625-38.
+5. Schmidt HH, Waddington-Cruz M,
+Botteman MF, et al. Estimating the global
+prevalence of transthyretin familial amy-
+loid polyneuropathy. Muscle Nerve 2018;​
+57:​829-37.
+6. Dohrn MF, Ihne S, Hegenbart U, et al.
+Targeting transthyretin — mechanism-
+based treatment approaches and future
+perspectives in hereditary amyloidosis.
+J Neurochem 2021;​156:​802-18.
+tional proteins where mutations cause pathologic
+deficiencies.
+The study reported here is ongoing. Dose es-
+calation continues with a goal of producing greater
+reductions in serum TTR protein than are achieved
+with available therapies, with anticipated benefi-
+cial effects on disease progression, quality of life,
+and mortality. Data from the initial groups of
+patients in this study provide clinical proof of con-
+cept for in vivo CRISPR-Cas9–mediated gene
+editing as a therapeutic strategy.
+Supported by Intellia Therapeutics and Regeneron Pharma-
+ceuticals.
+Disclosure forms provided by the authors are available with
+the full text of this article at NEJM.org.
+A data sharing statement provided by the authors is available
+with the full text of this article at NEJM.org.
+We thank the patients who participated in this study and
+their families; New Zealand Clinical Research and Richmond
+Pharmacology for contract research assistance; Altasciences,
+Charles River Laboratories, Precision for Medicine, PPD, and
+QPS for assistance with the studies in cynomolgus monkeys,
+enzyme-linked immunosorbent assay measurements of serum
+transthyretin, and pharmacokinetic and biomarker tests in the
+first-in-human study; Carri Boiselle, James Butler, David Cooke,
+Tracy DiMezzo, Richard Duncan, Eva Essig, Noah Gardner, Bo
+Han, Denise Hernandez, Tracy Jennings, Kellie Kolb, Rebecca
+Lescarbeau, Reynald Lescarbeau, Nishit Patel, Austin Ricker,
+Joseph Rissman, Matthew Roy, Philipp Schneggenburger, Palak
+Sharma, and Samantha Soukamneuth from Intellia Therapeu-
+tics for their dedicated investment in the development of NTLA-
+2001; and Ben Caldwell of Arc, a division of Spirit Medical Com-
+munications Group, for providing medical writing services.
+Maurer MS, Bokhari S, Damy T, et al.
+Expert consensus recommendations for
+the suspicion and diagnosis of transthyre-
+tin cardiac amyloidosis. Circ Heart Fail
+2019;​12(9):​e006075.
+8. Merlini G, Coelho T, Waddington
+Cruz M, Li H, Stewart M, Ebede B. Evalu-
+ation of mortality during long-term treat-
+ment with tafamidis for transthyretin
+amyloidosis with polyneuropathy: clinical
+trial results up to 8.5 years. Neurol Ther
+2020;​9:​105-15.
+9. Maurer MS, Schwartz JH, Gundapa-
+neni B, et al. Tafamidis treatment for pa-
+tients with transthyretin amyloid cardio-
+myopathy. N Engl J Med 2018;​379:​1007-16.
+10. Berk JL, Suhr OB, Obici L, et al. Re-
+purposing diflunisal for familial amyloid
+polyneuropathy: a randomized clinical
+trial. JAMA 2013;​310:​2658-67.
+11. Benson MD, Waddington-Cruz M,
+Berk JL, et al. Inotersen treatment for pa-
+tients with hereditary transthyretin amy-
+loidosis. N Engl J Med 2018;​379:​22-31.
+12. Adams D, Gonzalez-Duarte A,
+O’Riordan WD, et al. Patisiran, an RNAi
+therapeutic, for hereditary transthyretin
+amyloidosis. N Engl J Med 2018;​379:​11-21.
+7.
+n engl j med 385;6
+nejm.org
+13. Adams D, Polydefkis M, González-
+Duarte A, et al. Long-term safety and
+efficacy of patisiran for hereditary trans-
+thyretin-mediated amyloidosis with poly-
+neuropathy: 12-month results of an open-
+label extension study. Lancet Neurol 2021;​
+20:​49-59.
+14. Solomon SD, Adams D, Kristen A, et al.
+Effects of patisiran, an RNA interference
+therapeutic, on cardiac parameters in pa-
+tients with hereditary transthyretin-medi-
+ated amyloidosis. Circulation 2019;​
+139:​
+431-43.
+15. Urits I, Swanson D, Swett MC, et al.
+A review of patisiran (ONPATTRO) for the
+treatment of polyneuropathy in people
+with hereditary transthyretin amyloido-
+sis. Neurol Ther 2020;​9:​301-15.
+16. Lozeron P, Théaudin M, Mincheva Z,
+Ducot B, Lacroix C, Adams D. Effect on
+disability and safety of tafamidis in late
+onset of Met30 transthyretin familial
+amyloid polyneuropathy. Eur J Neurol
+2013;​20:​1539-45.
+17. Gertz MA, Scheinberg M, Wadding-
+ton-Cruz M, et al. Inotersen for the treat-
+ment of adults with polyneuropathy
+caused by hereditary transthyretin-medi-
+August 5, 2021
+The New England Journal of Medicine
+Downloaded from nejm.org on July 10, 2023. For personal use only. No other uses without permission.
+Copyright © 2021 Massachusetts Medical Society. All rights reserved.
+501CRISPR-C as 9 for Tr ansthyretin Amyloidosis
+ated amyloidosis. Expert Rev Clin Phar-
+macol 2019;​12:​701-11.
+18. Jinek M, Chylinski K, Fonfara I, Hauer
+M, Doudna JA, Charpentier E. A program-
+mable dual-RNA-guided DNA endonucle-
+ase in adaptive bacterial immunity. Science
+2012;​337:​816-21.
+19. Hsu PD, Lander ES, Zhang F. Develop-
+ment and applications of CRISPR-Cas9 for
+genome engineering. Cell 2014;​157:​1262-
+78.
+20. Dasgupta I, Flotte TR, Keeler AM.
+CRISPR/Cas-dependent and nuclease-free
+in vivo therapeutic gene editing. Hum
+Gene Ther 2021;​32:​275-93.
+21. Li H, Yang Y, Hong W, Huang M, Wu
+M, Zhao X. Applications of genome edit-
+ing technology in the targeted therapy of
+human diseases: mechanisms, advances
+and prospects. Signal Transduct Target
+Ther 2020;​5:​1.
+22. Power DM, Elias NP, Richardson SJ,
+Mendes J, Soares CM, Santos CR. Evolu-
+tion of the thyroid hormone-binding pro-
+tein, transthyretin. Gen Comp Endocrinol
+2000;​119:​241-55.
+23. van Bennekum AM, Wei S, Gamble
+MV, et al. Biochemical basis for depressed
+serum retinol levels in transthyretin-defi-
+cient mice. J Biol Chem 2001;​276:​1107-
+13.
+502
+24. Finn JD, Smith AR, Patel MC, et al.
+A single administration of CRISPR/Cas9
+lipid nanoparticles achieves robust and
+persistent in vivo genome editing. Cell
+Rep 2018;​22:​2227-35.
+25. Wood K, Pink M, Seitzer J, et al. De-
+velopment of NTLA-2001, a CRISPR/Cas9
+genome editing therapeutic for the treat-
+ment of ATTR. Presented at the Second
+European Congress for ATTR Amyloido-
+sis, Berlin, September 1–3, 2019.
+26. Sabnis S, Kumarasinghe ES, Salerno
+T, et al. A novel amino lipid series for
+mRNA delivery: improved endosomal es-
+cape and sustained pharmacology and
+safety in non-human primates. Mol Ther
+2018;​26:​1509-19.
+27. Akinc A, Maier MA, Manoharan M,
+et al. The Onpattro story and the clinical
+translation of nanomedicines containing
+nucleic acid-based drugs. Nat Nanotech-
+nol 2019;​14:​1084-7.
+28. Bae S, Park J, Kim JS. Cas-OFFinder:
+a fast and versatile algorithm that search-
+es for potential off-target sites of Cas9
+RNA-guided endonucleases. Bioinformat-
+ics 2014;​30:​1473-5.
+29. Tsai SQ, Zheng Z, Nguyen NT, et al.
+GUIDE-seq enables genome-wide profil-
+ing of off-target cleavage by CRISPR-Cas
+nucleases. Nat Biotechnol 2015;​33:​187-97.
+n engl j med 385;6
+nejm.org
+30. Cameron P, Fuller CK, Donohoue PD,
+et al. Mapping the genomic landscape of
+CRISPR-Cas9 cleavage. Nat Methods 2017;​
+14:​600-6.
+31. Müller ML, Butler J, Heidecker B.
+Emerging therapies in transthyretin am-
+yloidosis — a new wave of hope after
+years of stagnancy? Eur J Heart Fail 2020;​
+22:​39-53.
+32. Lin Y, Cradick TJ, Brown MT, et al.
+CRISPR/Cas9 systems have off-target ac-
+tivity with insertions or deletions between
+target DNA and guide RNA sequences.
+Nucleic Acids Res 2014;​42:​7473-85.
+33. Haapaniemi E, Botla S, Persson J,
+Schmierer B, Taipale J. CRISPR-Cas9 ge-
+nome editing induces a p53-mediated DNA
+damage response. Nat Med 2018;​24:​927-30.
+34. Enache OM, Rendo V, Abdusamad M,
+et al. Cas9 activates the p53 pathway and
+selects for p53-inactivating mutations. Nat
+Genet 2020;​52:​662-8.
+35. Vilenchik MM, Knudson AG. Endoge-
+nous DNA double-strand breaks: produc-
+tion, fidelity of repair, and induction of
+cancer. Proc Natl Acad Sci U S A 2003;​100:​
+12871-6.
+36. Varga T, Aplan PD. Chromosomal ab-
+errations induced by double strand DNA
+breaks. DNA Repair (Amst) 2005;​4:​1038-46.
+Copyright © 2021 Massachusetts Medical Society.
+August 5, 2021
+The New England Journal of Medicine
+Downloaded from nejm.org on July 10, 2023. For personal use only. No other uses without permission.
+Copyright © 2021 Massachusetts Medical Society. All rights reserved.
