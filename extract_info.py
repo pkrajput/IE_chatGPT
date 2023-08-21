@@ -20,7 +20,7 @@ parser.add_argument(
 
 parser.add_argument(
     "--open_api_key",
-    default="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",
+    default="API_KEY",
     type=str,
 )
 
