@@ -1,0 +1,14 @@
+openai:
+  embedding: 
+    model_name: "text-embedding-ada-002"
+    api_key: "OPENAI_API_KEY"
+    dimension: 1536
+
+pinecone: 
+  api_key: "Pinecone_API_KEY"
+  environment: "gcp-starter"
+  namespaces:
+      - namespace: "medical-knowledge-pdf"
+        path: "./PDF/Medical_Knowledge_PDF/"
+      - namespace: "evaluation-knowledge-pdf"
+        path: "./PDF/Evaluation_Knowledge_PDF/"
