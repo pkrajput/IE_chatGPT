@@ -20,7 +20,7 @@ This repository contains code for automated paper scraping, information extracti
 
 #### Confidence score for fact statements
  ```bash
- python3 get_papers.py --search_term --papers_json --trials_csv --save --open_api_key --question
+ python3 score.py --search_term --papers_json --trials_csv --save --open_api_key --question
 ```
  where the arguments:
  - `search_term` refers to the dieseas who's published article data, clinical trials data needs to be pulled up using pubmed API (abstracts only for now, ideally it should work with extracted information by extract_info.py) and ClinicalTrialsGov.py respectively
